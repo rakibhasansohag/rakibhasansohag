@@ -1,4 +1,4 @@
-# Hi there! I'm Rakih Hasan Sohag
+# Hi there! I'm Rakib Hasan Sohag
 #### MERN Stack Developer | Full Stack Enthusiast
 
 <!--  a brief introduction about yourself -->
