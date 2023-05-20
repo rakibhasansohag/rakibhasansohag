@@ -5,7 +5,6 @@
 I am a passionate MERN stack developer with a love for building web applications. I specialize in developing scalable and efficient solutions using MongoDB, Express.js, React.js, and Node.js. I enjoy working on both the front-end and back-end, creating seamless user experiences.
 
 <!-- Add badges representing your skills, social media profiles, or any other relevant information -->
-[![FaceBook](https://i.ibb.co/CtWbm6b/facebook.png)](https://www.facebook.com/rakibhasansohag133)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devoloper-rakib)
 
 
