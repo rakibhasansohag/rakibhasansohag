@@ -6,7 +6,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!-- Add badges representing your skills, social media profiles, or any other relevant information -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devoloper-rakib)
-[![](https://visitcount.itsvg.in/api?id=devoloper-rakib&label=Profile%20Views&color=0&icon=4&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devoloper-rakib&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!--  key skills and technologies -->
 ## Skills
