@@ -31,8 +31,8 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  key skills and technologies -->
 ## Skills
-💻 Front-end: HTML, CSS, JavaScript, React.js, SCSS, Bootstrap <br/>  
-🔧 Back-end: Node.js, Express.js  <br/>
+💻 Front-end: HTML, CSS, JavaScript, React.js, SCSS, Bootstrap <br/>
+🔧 Back-end: Node.js, Express.js<br/>
 🛢 Database: MongoDB, Firebase  <br/> 
 ☑️ Version Control: Git  <br/>
 🎨 Design Tools: Photoshop ,Figma <br/>
