@@ -36,7 +36,7 @@ I am a passionate MERN stack developer with a love for building web applications
 🛢 Database: MongoDB, Firebase  <br/> 
 ☑️ Version Control: Git  <br/>
 🎨 Design Tools: Photoshop ,Figma <br/>
-🌐 Technologies: Postman <br/>
+🌐 Technologies: Postman , Vs-Code editor , Notion , Slack  <br/>
 
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
