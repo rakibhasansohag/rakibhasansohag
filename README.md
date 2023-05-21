@@ -22,16 +22,6 @@ I am a passionate MERN stack developer with a love for building web applications
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://img.shields.io/badge/GitHub-Stats-181717?style=flat&logo=github&logoColor=white" width="60%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://img.shields.io/badge/Top%20Languages-Compact-4285F4?style=flat&logo=github&logoColor=white" width="40%" />
-  </a>
-</div>
-
-
 <!-- Add badges representing your skills, social media profiles, or any other relevant information -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devoloper-rakib)
 [![](https://visitcount.itsvg.in/api?id=devoloper-rakib&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
