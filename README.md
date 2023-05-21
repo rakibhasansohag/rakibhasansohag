@@ -8,12 +8,12 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="60%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=devoloper-rakib&theme=github_dark&show_icons=true" />
       </a>
     </td>
-    <td width="35%">
+    <td width="40%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoloper-rakib&layout=compact" />
       </a>
