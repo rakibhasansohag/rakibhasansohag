@@ -31,10 +31,10 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  key skills and technologies -->
 ## Skills
-- Front-end: HTML, CSS, JavaScript, React.js
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Version Control: Git
+💻 Front-end: HTML, CSS, JavaScript, React.js
+🔧 Back-end: Node.js, Express.js
+🛢 Database: MongoDB
+☑️ Version Control: Git
 
 
 <!--  MERN stack projects or highlight your notable projects -->
