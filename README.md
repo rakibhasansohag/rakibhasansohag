@@ -14,7 +14,7 @@ I am a passionate MERN stack developer with a love for building web applications
     </td>
     <td width="40%" height="100%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoloper-rakib&layout=compact&hide_border=true" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devoloper-rakib&layout=compact&hide_border=true" />
       </a>
     </td>
   </tr>
