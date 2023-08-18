@@ -32,25 +32,25 @@ I am a passionate MERN stack developer with a love for building web applications
 <!--  key skills and technologies -->
 ## Skills
 💻 Front-end: HTML, CSS, JavaScript, React.js, SCSS, Bootstrap <br/>
-🔧 Back-end: Node.js, Express.js<br/>
+🔧 Back-end: Node, Express<br/>
 🛢 Database: MongoDB, Firebase  <br/> 
 ☑️ Version Control: Git  <br/>
-🎨 Design Tools: Photoshop ,Figma <br/>
-🌐 Technologies: Postman , Vs-Code editor , Notion , Slack , MongoDB Compass <br/>
+🎨 Design Tools: Photoshop, Figma <br/>
+🌐 Technologies: Postman, Vs-Code editor, Notion, Slack, MongoDB Compass <br/>
 
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
 - [50 days Challane ](https://github.com/devoloper-rakib/50-day-challange--html-Scss-js-): it's an 50 days challenge on html scss and js .
 - [React DashBoard](https://github.com/devoloper-rakib/React-Dashboard): this project is made by react and fully responsive.
 - [Team Management ](https://github.com/devoloper-rakib/React-Projects/tree/main/team-manage): it's an react project based on task and team member management.
-- [Web design project](https://github.com/devoloper-rakib/Web-Design-Projects):  This repository showcases a collection of my web design projects, demonstrating my skills and creativity in the field of web development. 
+- [Web design project](https://github.com/devoloper-rakib/Web-Design-Projects):  This repository showcases a collection of my web design projects, demonstrating my skills and creativity in web development. Each project presents unique challenges and solutions, highlighting my ability to design visually appealing and functional websites.
 
 
 <!-- interests, hobbies, or other fun facts -->
 ## Interests
 - Exploring new libraries and frameworks in the MERN stack.
 - Solving coding challenges and participating in various short projects.
-- Contributing to open source projects related to the MERN stack.
+- Contributing to open-source projects related to the MERN stack.
 
 <!--   call to action or any other concluding statement -->
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and eager to work on exciting MERN stack projects. Let's build amazing web applications together!
