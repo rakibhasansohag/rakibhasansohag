@@ -40,7 +40,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
-- [50 days Challane ](https://github.com/devoloper-rakib/50-day-challange--html-Scss-js-): it's an 50 days challenge on html scss and js .
+- [50 days Challenge ](https://github.com/devoloper-rakib/50-day-challange--html-Scss-js-): it's an 50 days challenge on html scss and js .
 - [React DashBoard](https://github.com/devoloper-rakib/React-Dashboard): this project is made by react and fully responsive.
 - [Team Management ](https://github.com/devoloper-rakib/React-Projects/tree/main/team-manage): it's an react project based on task and team member management.
 - [Web design projects](https://github.com/devoloper-rakib/Web-Design-Projects):  This repository showcases a collection of my web design projects, demonstrating my skills and creativity in web development. Each project presents unique challenges and solutions, highlighting my ability to design visually appealing and functional websites.
