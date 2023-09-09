@@ -6,7 +6,7 @@
 <!--  a brief introduction about yourself -->
 I am a passionate MERN stack developer with a love for building web applications. I specialize in developing scalable and efficient solutions using MongoDB, Express.js, React.js, and Node.js. I enjoy working on both the front-end and back-end, creating seamless user experiences.
 
-<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/fzPJ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/fzPJ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
 
 <div align="center">
 <table>
