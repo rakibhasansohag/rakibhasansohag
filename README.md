@@ -6,7 +6,7 @@
 <!--  a brief introduction about yourself -->
 I am a passionate MERN stack developer with a love for building web applications. I specialize in developing scalable and efficient solutions using MongoDB, Express.js, React.js, and Node.js. I enjoy working on both the front-end and back-end, creating seamless user experiences.
 
-![i am learning too fast](fzPJ.mp4)
+![i am learning too fast](/fzPJ.mp4)
 
 
 
