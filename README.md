@@ -42,7 +42,7 @@ I am a passionate MERN stack developer with a love for building web applications
 🛢 Database: MongoDB, Firebase  <br/> 
 ☑️ Version Control: Git  <br/>
 🎨 Design Tools: Photoshop, Figma <br/>
-🌐 Technologies: Postman, Vs-Code editor, Notion, Slack, MongoDB Compass, Chrome Dev Tool <br/>
+🌐 Technologies: Postman, Vs-Code editor, Notion, Slack, MongoDB Compass, Chrome Dev Tool , redux Dev Tool , react-Query Dev Tool <br/>
 
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
