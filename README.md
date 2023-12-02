@@ -8,7 +8,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devoloper-rakib&layout=compact)
+
 
 
 <div align="center">
