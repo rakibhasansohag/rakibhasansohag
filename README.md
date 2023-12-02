@@ -8,7 +8,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div align="center">
 <table>
