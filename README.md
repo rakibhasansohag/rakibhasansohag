@@ -34,7 +34,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!-- Add badges representing your skills, social media profiles, or any other relevant information -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rakibhasansohag)
-[![](https://visitcount.itsvg.in/api?id=devoloper-rakib&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rakibhasansohag&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!--  key skills and technologies -->
 ## Skills
@@ -47,10 +47,10 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
-- [50 days Challenge ](https://github.com/devoloper-rakib/50-day-challange--html-Scss-js-): it's an 50 days challenge on html scss and js .
-- [React DashBoard](https://github.com/devoloper-rakib/React-Dashboard): this project is made by react and fully responsive.
-- [Team Management ](https://github.com/devoloper-rakib/React-Projects/tree/main/team-manage): it's an react project based on task and team member management.
-- [Web design projects](https://github.com/devoloper-rakib/Web-Design-Projects):  This repository showcases a collection of my web design projects, demonstrating my skills and creativity in web development. Each project presents unique challenges and solutions, highlighting my ability to design visually appealing and functional websites.
+- [50 days Challenge ](https://github.com/rakibhasansohag/50-day-challange--html-Scss-js-): it's an 50 days challenge on html scss and js .
+- [React DashBoard](https://github.com/rakibhasansohag/React-Dashboard): this project is made by react and fully responsive.
+- [Team Management ](https://github.com/rakibhasansohag/React-Projects/tree/main/team-manage): it's an react project based on task and team member management.
+- [Web design projects](https://github.com/rakibhasansohag/Web-Design-Projects):  This repository showcases a collection of my web design projects, demonstrating my skills and creativity in web development. Each project presents unique challenges and solutions, highlighting my ability to design visually appealing and functional websites.
 
 
 <!-- interests, hobbies, or other fun facts -->
