@@ -16,12 +16,12 @@ I am a passionate MERN stack developer with a love for building web applications
   <tr>
     <td width="60%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devoloper-rakib&theme=github_dark&show_icons=true&hide_border=true" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakibhasansohag&theme=github_dark&show_icons=true&hide_border=true" />
       </a>
     </td>
     <td width="40%" height="100%" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devoloper-rakib&layout=compact&hide_border=true" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakibhasansohag&layout=compact&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -33,7 +33,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 <!-- Add badges representing your skills, social media profiles, or any other relevant information -->
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devoloper-rakib)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rakibhasansohag)
 [![](https://visitcount.itsvg.in/api?id=devoloper-rakib&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!--  key skills and technologies -->
