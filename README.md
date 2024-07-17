@@ -38,7 +38,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  key skills and technologies -->
 ## Skills
-💻 Front-end: HTML, CSS, JavaScript, React.js, SCSS, Bootstrap, Tailwind <br/>
+💻 Front-end: HTML, CSS, JavaScript, React.js, Next.js, SCSS, Bootstrap, Tailwind <br/>
 🔧 Back-end: NodeJS, ExpressJS<br/>
 🛢 Database: MongoDB, Firebase, Supabase  <br/> 
 ☑️ Version Control: Git  <br/>
