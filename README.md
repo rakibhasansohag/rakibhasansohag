@@ -3,7 +3,7 @@
 # Hi there! I'm Rakib Hasan Sohag
 #### MERN Stack Developer | Full Stack Enthusiast
 
-<!--  a brief introduction about yourself -->
+<!--  a brief introduction about My Self -->
 I am a passionate MERN stack developer with a love for building web applications. I specialize in developing scalable and efficient solutions using MongoDB, Express.js, React.js, and Node.js. I enjoy working on both the front-end and back-end, creating seamless user experiences.
 
 
@@ -32,7 +32,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 
-<!-- Add badges representing your skills, social media profiles, or any other relevant information -->
+<!--  badges representing your skills, social media profiles, or any other relevant information -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rakibhasansohag)
 [![](https://visitcount.itsvg.in/api?id=rakibhasansohag&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
