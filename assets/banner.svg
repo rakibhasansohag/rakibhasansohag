@@ -5,9 +5,6 @@
       <stop offset="100%" stop-color="#1e293b"/>
     </linearGradient>
     <style>
-     
-      
-
       text { 
         font-family: 'Poppins', sans-serif;
         fill: #f8fafc;
@@ -16,13 +13,8 @@
         animation: float 3s ease-in-out infinite;
       }
       @keyframes float {
-        0%, 
-        100% { 
-          transform: translateY(0); 
-        }
-        50% { 
-          transform: translateY(-10px); 
-        }
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
       }
     </style>
   </defs>
@@ -39,24 +31,51 @@
     Web Designer | MERN Stack Developer | Frontend Specialist
   </text>
   
-  <!-- Tech Badges -->
+  <!-- Tech Badges with actual logos -->
   <g class="tech-badge" style="animation-delay: 0s">
+    <!-- React Logo -->
     <circle cx="35%" cy="75%" r="30" fill="#61dafb"/>
-    <text x="35%" y="77%" text-anchor="middle" font-size="24" fill="#000">R</text>
+    <g transform="translate(35%, 75%) scale(0.1) translate(-30, -30)">
+      <circle cx="30" cy="30" r="5" fill="#61dafb"/>
+      <g stroke="#61dafb" stroke-width="1">
+        <circle cx="30" cy="30" r="20" fill="none"/>
+        <circle cx="30" cy="30" r="20" fill="none" transform="rotate(60 30 30)"/>
+        <circle cx="30" cy="30" r="20" fill="none" transform="rotate(120 30 30)"/>
+      </g>
+    </g>
   </g>
   
   <g class="tech-badge" style="animation-delay: 0.2s">
+    <!-- Node.js Logo -->
     <circle cx="45%" cy="75%" r="30" fill="#68a063"/>
-    <text x="45%" y="77%" text-anchor="middle" font-size="24" fill="#000">N</text>
+    <g transform="translate(45%, 75%) scale(0.08) translate(-40, -40)">
+      <path d="M40,40 C58.667,40 74,25.333 74,7 C74,-11.333 58.667,-26 40,-26 C21.333,-26 6,-11.333 6,7 C6,25.333 21.333,40 40,40 Z" fill="#68a063"/>
+      <path d="M30,5 L50,5 L50,30 L30,30 Z" fill="white"/>
+      <path d="M35,10 L45,10 L45,25 L35,25 Z" fill="#68a063"/>
+      <circle cx="40" cy="17" r="3" fill="white"/>
+      <circle cx="40" cy="23" r="3" fill="white"/>
+    </g>
   </g>
   
   <g class="tech-badge" style="animation-delay: 0.4s">
+    <!-- MongoDB Logo -->
     <circle cx="55%" cy="75%" r="30" fill="#4db33d"/>
-    <text x="55%" y="77%" text-anchor="middle" font-size="24" fill="#000">M</text>
+    <g transform="translate(55%, 75%) scale(0.08) translate(-40, -40)">
+      <path d="M40,10 C50,10 58,15 58,25 C58,35 50,40 40,40 C30,40 22,35 22,25 C22,15 30,10 40,10 Z" fill="#4db33d"/>
+      <path d="M40,15 C47.5,15 53,20 53,27.5 C53,35 47.5,40 40,40 C32.5,40 27,35 27,27.5 C27,20 32.5,15 40,15 Z" fill="#3fa037"/>
+      <ellipse cx="40" cy="27.5" rx="6" ry="3.5" fill="white"/>
+      <path d="M36,25 L44,25 L44,30 L36,30 Z" fill="#4db33d"/>
+    </g>
   </g>
   
   <g class="tech-badge" style="animation-delay: 0.6s">
+    <!-- JavaScript Logo -->
     <circle cx="65%" cy="75%" r="30" fill="#f0db4f"/>
-    <text x="65%" y="77%" text-anchor="middle" font-size="24" fill="#000">JS</text>
+    <g transform="translate(65%, 75%) scale(0.08) translate(-40, -40)">
+      <rect x="10" y="10" width="60" height="60" rx="5" fill="#f0db4f"/>
+      <path d="M30,30 L50,30 L50,50 L30,50 Z" fill="black"/>
+      <path d="M35,35 L45,35 L45,45 L35,45 Z" fill="#f0db4f"/>
+      <path d="M38,38 L42,38 L42,42 L38,42 Z" fill="black"/>
+    </g>
   </g>
 </svg>
