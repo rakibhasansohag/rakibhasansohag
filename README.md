@@ -1,5 +1,10 @@
 <meta name="google-site-verification" content="QluewUBiBuvg1hQW3YmI7vj3zRVALFJqw-OM5ykQb-U" />
 
+<p align="center">
+  <img src="assets/cover.png" alt="MERN Stack Developer Banner" />
+</p>
+
+
 # Hi there! I'm Rakib Hasan Sohag
 #### MERN Stack Developer | Full Stack Enthusiast
 
