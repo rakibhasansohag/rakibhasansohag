@@ -9,62 +9,9 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 <!-- Ha ha banner section -->
-<!-- Save as assets/banner.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e293b"/>
-    </linearGradient>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
-      text { 
-        font-family: 'Poppins', sans-serif;
-        fill: #f8fafc;
-      }
-      .tech-badge {
-        animation: float 3s ease-in-out infinite;
-      }
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
-      }
-    </style>
-  </defs>
-  
-  <rect width="100%" height="100%" fill="url(#gradient)"/>
-  
-  <!-- Name -->
-  <text x="50%" y="40%" text-anchor="middle" font-size="56" font-weight="700">
-    Rakib Hasan Sohag
-  </text>
-  
-  <!-- Titles -->
-  <text x="50%" y="55%" text-anchor="middle" font-size="32" fill="#4cc9f0">
-    Web Designer | MERN Stack Developer | Frontend Specialist
-  </text>
-  
-  <!-- Tech Badges -->
-  <g class="tech-badge" style="animation-delay: 0s">
-    <circle cx="35%" cy="75%" r="30" fill="#61dafb"/>
-    <text x="35%" y="77%" text-anchor="middle" font-size="24" fill="#000">R</text>
-  </g>
-  
-  <g class="tech-badge" style="animation-delay: 0.2s">
-    <circle cx="45%" cy="75%" r="30" fill="#68a063"/>
-    <text x="45%" y="77%" text-anchor="middle" font-size="24" fill="#000">N</text>
-  </g>
-  
-  <g class="tech-badge" style="animation-delay: 0.4s">
-    <circle cx="55%" cy="75%" r="30" fill="#4db33d"/>
-    <text x="55%" y="77%" text-anchor="middle" font-size="24" fill="#000">M</text>
-  </g>
-  
-  <g class="tech-badge" style="animation-delay: 0.6s">
-    <circle cx="65%" cy="75%" r="30" fill="#f0db4f"/>
-    <text x="65%" y="77%" text-anchor="middle" font-size="24" fill="#000">JS</text>
-  </g>
-</svg>
+<div align="center">
+  <img src="assets/banner.svg" alt="Rakib Hasan Sohag Banner">
+</div>
 
 
 <!-- Stats -->
