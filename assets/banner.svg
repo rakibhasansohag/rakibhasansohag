@@ -5,7 +5,9 @@
       <stop offset="100%" stop-color="#1e293b"/>
     </linearGradient>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+     
+      
+
       text { 
         font-family: 'Poppins', sans-serif;
         fill: #f8fafc;
@@ -14,8 +16,13 @@
         animation: float 3s ease-in-out infinite;
       }
       @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
+        0%, 
+        100% { 
+          transform: translateY(0); 
+        }
+        50% { 
+          transform: translateY(-10px); 
+        }
       }
     </style>
   </defs>
