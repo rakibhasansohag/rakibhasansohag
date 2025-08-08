@@ -9,8 +9,6 @@
 <br>
 
 # Hi there! I'm Rakib Hasan Sohag
-#### MERN Stack Developer | Full Stack Enthusiast
-
 <!--  a brief introduction about My Self -->
 I am a passionate MERN stack developer with a love for building web applications. I specialize in developing scalable and efficient solutions using MongoDB, Express.js, React.js, and Node.js. I enjoy working on both the front-end and back-end, creating seamless user experiences.
 
