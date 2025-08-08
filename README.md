@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="QluewUBiBuvg1hQW3YmI7vj3zRVALFJqw-OM5ykQb-U" />
 
 <p align="center">
-  <img src="assets/banner.png" alt="Rakib Hasan Sohag Banner" />
+  <img src="assets/banner.png" alt="Rakib Hasan Sohag Banner"  />
 </p>
 
 
