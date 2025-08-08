@@ -45,7 +45,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  key skills and technologies -->
 ## Skills
-💻 Front-end: HTML, CSS, JavaScript, React.js, Next.js, SCSS, Bootstrap, Tailwind <br/>
+💻 Front-end: JavaScript, React.js, Next.js, SCSS, Bootstrap, Tailwind <br/>
 🔧 Back-end: NodeJS, ExpressJS<br/>
 🛢 Database: MongoDB, Firebase, Supabase  <br/> 
 ☑️ Version Control: Git  <br/>
@@ -55,7 +55,8 @@ I am a passionate MERN stack developer with a love for building web applications
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
 - [50 days Challenge ](https://github.com/rakibhasansohag/50-day-challange--html-Scss-js-): 50 mini-projects tackling HTML, SCSS & vanilla JS skills.
-- [React DashBoard](https://github.com/rakibhasansohag/React-Dashboard): A fully responsive admin panel with dynamic charts and authentication.
+- [React DashBoard](https://github.com/rakibhasansohag/React-Dashboard): A fully responsive admin panel with dynamic charts.
+
 
 
 <!-- interests, hobbies, or other fun facts -->
