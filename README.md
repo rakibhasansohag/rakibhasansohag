@@ -10,7 +10,7 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!-- Ha ha banner section -->
 <div align="center">
-  <img src="assets/banner.svg" alt="Rakib Hasan Sohag Banner">
+  <img src="assets/banner.png" alt="Rakib Hasan Sohag Banner">
 </div>
 
 
