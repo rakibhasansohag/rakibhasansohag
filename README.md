@@ -1,5 +1,12 @@
 <meta name="google-site-verification" content="QluewUBiBuvg1hQW3YmI7vj3zRVALFJqw-OM5ykQb-U" />
 
+
+<!-- Ha ha banner section -->
+<div align="center">
+  <img src="assets/banner.png" alt="Rakib Hasan Sohag Banner" >
+</div>
+
+<br>
 # Hi there! I'm Rakib Hasan Sohag
 #### MERN Stack Developer | Full Stack Enthusiast
 
@@ -8,10 +15,6 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 
-<!-- Ha ha banner section -->
-<div align="center">
-  <img src="assets/banner.png" alt="Rakib Hasan Sohag Banner">
-</div>
 
 
 <!-- Stats -->
