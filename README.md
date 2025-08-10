@@ -3,7 +3,7 @@
 
 <!-- Ha ha banner section -->
 <div align="center">
-  <img src="assets/make-better.svg" alt="Rakib Hasan Sohag Banner" >
+  <img src="assets/make_better.svg" alt="Rakib Hasan Sohag Banner" >
 </div>
 
 <br>
