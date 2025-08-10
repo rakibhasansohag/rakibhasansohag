@@ -18,17 +18,18 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!-- Stats -->
 
-<div align="center">
-<table>
-  <tr>
-    <td width="60%" valign="top">
+
+<div align="center" >
+<table cellpadding='0' cellspacing='0' style='width:100% ; max-width:1000px ; text-align:center '  >
+  <tr style="padding:0; margin:0; text-align:center" >
+    <td width="50%" valign="top" style="padding:0; margin:0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://raw.githubusercontent.com/rakibhasansohag/github-stats-transparent/8f95dc487701f85d54907bd26fd007cdf985320e/generated/languages.svg" />
+        <img align="center" src="https://raw.githubusercontent.com/rakibhasansohag/github-stats-transparent/8f95dc487701f85d54907bd26fd007cdf985320e/generated/languages.svg" width='100%' height='300px'/>
       </a>
     </td>
-    <td width="40%" height="100%" valign="top">
+    <td width="44%" height="100%" valign="top" style="padding:0; margin:0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://raw.githubusercontent.com/rakibhasansohag/github-stats-transparent/8f95dc487701f85d54907bd26fd007cdf985320e/generated/overview.svg" />
+        <img align="center" src="https://raw.githubusercontent.com/rakibhasansohag/github-stats-transparent/8f95dc487701f85d54907bd26fd007cdf985320e/generated/overview.svg" width='100%' height='300px'/>
       </a>
     </td>
   </tr>
