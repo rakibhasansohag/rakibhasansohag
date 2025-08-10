@@ -14,8 +14,6 @@ I am a passionate MERN stack developer with a love for building web applications
 
 
 
-
-
 <!-- Stats -->
 
 <div align="center">
@@ -50,28 +48,70 @@ I am a passionate MERN stack developer with a love for building web applications
 
 <!--  badges representing your skills, social media profiles, or any other relevant information -->
 <p align="center">
-   <a href="https://github.com/rakibhasansohag" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/github/followers/rakibhasansohag?style=social" alt="GitHub followers"/>
-</a>
 
-  <a href="https://www.linkedin.com/in/rakib-hasan-sohag/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/rakibhasansohag" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://codepen.io/rakibhasansohag" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"/>
-  </a>
-  <a href="https://rakibhasansohag.netlify.app/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://medium.com/@rakibhasansohag" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://t.me/rakibhasansohag" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <!-- GitHub Followers -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/rakibhasansohag?style=social&label=Follow&color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/rakibhasansohag?style=social&label=Follow&color=black">
+    <a href="https://github.com/rakibhasansohag" target="_blank" rel="noopener noreferrer">
+      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/rakibhasansohag?style=social&label=Follow">
+    </a>
+  </picture>
+
+  <!-- LinkedIn -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/rakib-hasan-sohag/" target="_blank" rel="noopener">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    </a>
+  </picture>
+
+  <!-- Dev.to -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white">
+    <a href="https://dev.to/rakibhasansohag" target="_blank" rel="noopener">
+      <img alt="Dev.to" src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white">
+    </a>
+  </picture>
+
+  <!-- CodePen -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white">
+    <a href="https://codepen.io/rakibhasansohag" target="_blank" rel="noopener">
+      <img alt="CodePen" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white">
+    </a>
+  </picture>
+
+  <!-- Website -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Website-1e293b?style=flat-square&logo=google-chrome&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white">
+    <a href="https://rakibhasansohag.netlify.app/" target="_blank" rel="noopener">
+      <img alt="Website" src="https://img.shields.io/badge/-Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white">
+    </a>
+  </picture>
+
+  <!-- Medium -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Medium-ffffff?style=flat-square&logo=medium&logoColor=black">
+    <a href="https://medium.com/@rakibhasansohag" target="_blank" rel="noopener">
+      <img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white">
+    </a>
+  </picture>
+
+  <!-- Telegram -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white">
+    <a href="https://t.me/rakibhasansohag" target="_blank" rel="noopener">
+      <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white">
+    </a>
+  </picture>
+
 </p>
 
 <!--  key skills and technologies -->
