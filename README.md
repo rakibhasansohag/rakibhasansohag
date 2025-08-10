@@ -50,7 +50,7 @@ I am a passionate MERN stack developer with a love for building web applications
   <a href="https://codepen.io/rakibhasansohag" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
-  <a href="https://rakibhasansohag.netlify.app/d" target="_blank" rel="noopener">
+  <a href="https://rakibhasansohag.netlify.app/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://medium.com/@rakibhasansohag" target="_blank" rel="noopener">
