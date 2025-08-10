@@ -15,19 +15,15 @@
     </pattern>
     
     <style>
-	@font-face {
-		font-family: 'Ubuntu Mono';
-		font-style: normal;
-		font-weight: 700;
-		src: url(data:font/woff2;base64,PASTE_THE_VERY_LONG_BASE64_STRING_HERE) format('woff2');
-	}
-	.signature {
-		font-family: 'Ubuntu Mono', monospace;
-		font-weight: 700;
-		fill: #4cc9f0;
-		font-size: 64px;
-		text-shadow: 0 0 15px rgba(76, 201, 240, 0.7);
-	}
+      @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap');
+      .signature {
+        font-family: 'Ubuntu Mono', monospace;
+        font-weight: 700;
+        fill: #4cc9f0;
+        font-size: 64px;
+        text-shadow: 0 0 15px rgba(76, 201, 240, 0.7);
+        letter-spacing: 2px;
+      }
     </style>
     
     <!-- Tech Icons -->
@@ -41,14 +37,65 @@
       </g>
     </g>
     
-    <!-- Additional icon definitions would go here -->
+    <g id="node-icon">
+      <circle r="24" fill="#68a063"/>
+      <text x="0" y="8" text-anchor="middle" fill="white" font-weight="bold" font-size="28">N</text>
+    </g>
+    
+    <g id="mongo-icon">
+      <path d="M0,-24 L-14,18 L0,24 L14,18 Z" fill="#4db33d"/>
+      <path d="M0,-20 L-12,16 L0,20 L12,16 Z" fill="#3fa037"/>
+    </g>
+    
+    <g id="express-icon">
+      <circle r="24" fill="#000000"/>
+      <text x="0" y="8" text-anchor="middle" fill="white" font-weight="bold" font-size="28">E</text>
+    </g>
+    
+    <g id="js-icon">
+      <circle r="24" fill="#f0db4f"/>
+      <text x="0" y="8" text-anchor="middle" fill="black" font-weight="bold" font-size="20">JS</text>
+    </g>
+    
+    <g id="html-icon">
+      <path d="M0,-24 L-24,0 L0,24 L24,0 Z" fill="#e44d26" transform="rotate(45)"/>
+      <text x="0" y="8" text-anchor="middle" fill="white" font-weight="bold" font-size="20">5</text>
+    </g>
+    
+    <g id="css-icon">
+      <path d="M0,-24 L-24,0 L0,24 L24,0 Z" fill="#264de4" transform="rotate(45)"/>
+      <text x="0" y="8" text-anchor="middle" fill="white" font-weight="bold" font-size="20">3</text>
+    </g>
+    
+    <g id="redux-icon">
+      <circle r="24" fill="#764abc"/>
+      <path d="M-15,-10 L15,-10 L15,10 L-15,10 Z" fill="white"/>
+      <path d="M-8,-3 L8,-3 L8,3 L-8,3 Z" fill="#764abc"/>
+    </g>
+    
+    <g id="nextjs-icon">
+      <circle r="24" fill="black"/>
+      <path d="M-12,-12 L12,12" stroke="white" stroke-width="4"/>
+      <path d="M12,-12 L-12,12" stroke="white" stroke-width="4"/>
+    </g>
+    
+    <g id="tailwind-icon">
+      <circle r="24" fill="#38bdf8"/>
+      <path d="M-12,-5 C-4,-10 4,-10 12,-5 C20,0 20,10 12,15 C4,20 -4,20 -12,15 C-20,10 -20,0 -12,-5 Z" fill="white"/>
+    </g>
+    
+    <g id="firebase-icon">
+      <circle r="24" fill="#ffca28"/>
+      <path d="M0,-20 L-10,15 L0,5 L10,15 Z" fill="#f57c00"/>
+      <path d="M0,-15 L-8,10 L0,2 L8,10 Z" fill="#ffca28"/>
+    </g>
   </defs>
   
   <rect width="100%" height="100%" fill="url(#coverGradient)"/>
   <rect width="100%" height="100%" fill="url(#circuitPattern)" opacity="0.15"/>
   
   <!-- Signature -->
-  <text x="50%" y="50%" text-anchor="middle" class="signature">Think twice, code once</text>
+  <text x="50%" y="45%" text-anchor="middle" class="signature">Think twice, code once</text>
   
   <!-- Tech Icons Circle -->
   <g transform="translate(792, 198)">
@@ -58,21 +105,60 @@
     </g>
     
     <!-- Node.js -->
-    <g transform="rotate(36) translate(0, -180)">
-      <circle r="24" fill="#68a063"/>
-      <text x="0" y="8" text-anchor="middle" fill="white" font-weight="bold" font-size="28">N</text>
+    <g transform="rotate(32.7) translate(0, -180)">
+      <use href="#node-icon"/>
     </g>
     
     <!-- MongoDB -->
-    <g transform="rotate(72) translate(0, -180)">
-      <path d="M0,-24 L-14,18 L0,24 L14,18 Z" fill="#4db33d"/>
-      <path d="M0,-20 L-12,16 L0,20 L12,16 Z" fill="#3fa037"/>
+    <g transform="rotate(65.4) translate(0, -180)">
+      <use href="#mongo-icon"/>
     </g>
     
-    <!-- More icons at 108°, 144°, 180°, 216°, 252°, 288°, 324° positions -->
+    <!-- Express -->
+    <g transform="rotate(98.1) translate(0, -180)">
+      <use href="#express-icon"/>
+    </g>
+    
+    <!-- JavaScript -->
+    <g transform="rotate(130.8) translate(0, -180)">
+      <use href="#js-icon"/>
+    </g>
+    
+    <!-- HTML5 -->
+    <g transform="rotate(163.5) translate(0, -180)">
+      <use href="#html-icon"/>
+    </g>
+    
+    <!-- CSS3 -->
+    <g transform="rotate(196.2) translate(0, -180)">
+      <use href="#css-icon"/>
+    </g>
+    
+    <!-- Redux -->
+    <g transform="rotate(228.9) translate(0, -180)">
+      <use href="#redux-icon"/>
+    </g>
+    
+    <!-- Next.js -->
+    <g transform="rotate(261.6) translate(0, -180)">
+      <use href="#nextjs-icon"/>
+    </g>
+    
+    <!-- Tailwind CSS -->
+    <g transform="rotate(294.3) translate(0, -180)">
+      <use href="#tailwind-icon"/>
+    </g>
+    
+    <!-- Firebase -->
+    <g transform="rotate(327) translate(0, -180)">
+      <use href="#firebase-icon"/>
+    </g>
   </g>
   
   <!-- Floating particles -->
   <circle cx="200" cy="100" r="3" fill="#4cc9f0" opacity="0.7"/>
-  <!-- Additional particles would go here -->
+  <circle cx="1400" cy="300" r="4" fill="#61dafb" opacity="0.6"/>
+  <circle cx="500" cy="350" r="2" fill="#4cc9f0" opacity="0.5"/>
+  <circle cx="1200" cy="150" r="3" fill="#68a063" opacity="0.7"/>
+  <circle cx="300" cy="250" r="2" fill="#4db33d" opacity="0.6"/>
 </svg>
