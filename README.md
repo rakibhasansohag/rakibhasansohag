@@ -35,13 +35,12 @@ I am a passionate MERN stack developer with a love for building web applications
 </table>
 </div>
 
-
 <!--  badges representing your skills, social media profiles, or any other relevant information -->
 <p align="center">
+   <a href="https://github.com/rakibhasansohag" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/followers/rakibhasansohag?style=social" alt="GitHub followers"/>
+</a>
 
-  <a href="https://github.com/rakibhasansohag" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/rakibhasansohag?style=social" alt="GitHub followers"/>
-  </a>
   <a href="https://www.linkedin.com/in/rakib-hasan-sohag/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -60,19 +59,7 @@ I am a passionate MERN stack developer with a love for building web applications
   <a href="https://t.me/rakibhasansohag" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <br/>
-  <a href="https://github.com/rakibhasansohag" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://visitcount.itsvg.in" target="_blank" rel="noopener">
-    <img src="https://visitcount.itsvg.in/api?id=rakibhasansohag&label=Profile%20Views&color=12&icon=4&pretty=true" alt="Profile Views"/>
-  </a>
-  
 </p>
-
-
-
-
 
 <!--  key skills and technologies -->
 ## Skills
