@@ -15,14 +15,18 @@
     </pattern>
     
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap');
+      @font-face {
+        font-family: 'Ubuntu Mono';
+        font-style: normal;
+        font-weight: 700;
+        src: url(data:font/woff2;base64,PASTE_THE_VERY_LONG_BASE64_STRING_HERE) format('woff2');
+      }
       .signature {
         font-family: 'Ubuntu Mono', monospace;
         font-weight: 700;
         fill: #4cc9f0;
         font-size: 64px;
         text-shadow: 0 0 15px rgba(76, 201, 240, 0.7);
-        letter-spacing: 2px;
       }
     </style>
     
