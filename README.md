@@ -76,9 +76,8 @@ I am a passionate MERN stack developer with a love for building web applications
 <!--  MERN stack projects or highlight your notable projects -->
 ## Projects
 - [50 days Challenge ](https://github.com/rakibhasansohag/50-day-challange--html-Scss-js-): 50 mini-projects tackling HTML, SCSS & vanilla JS skills.
-- [React DashBoard](https://github.com/rakibhasansohag/React-Dashboard): A fully responsive admin panel with dynamic charts.
-
-
+- [Home Horizon](https://github.com/rakibhasansohag/home-horizon): Home Horizon is a full-stack MERN real estate application designed for seamless property discovery, buying, and management. Built with React, Tailwind CSS, ShadCN UI, and modern animations, it offers a smooth and engaging user experience for both buyers and property owners.
+- [MovieX](https://github.com/rakibhasansohag/MovieX): lightweight movie info web application. 
 
 <!-- interests, hobbies, or other fun facts -->
 ## Interests
